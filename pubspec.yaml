@@ -1,0 +1,3 @@
+name: StringCalculator
+dependencies:
+  test: "^1.2.0"
